@@ -32,14 +32,14 @@ along with alttab.  If not, see <http://www.gnu.org/licenses/>.
 #define XCLASSNAME  XWINNAME
 #define MSGPREFIX   "alttab: "
 #define XCLASS      "AltTab"
-#define DEFTILEW    112
-#define DEFTILEH    128
+#define DEFTILEW    160
+#define DEFTILEH    192
 #define DEFICONW    32
 #define DEFICONH    32
 #define DEFTHEME    "hicolor"
-#define FRAME_W     8
-//#define DEFFONT   "xft:DejaVu Sans Condensed-10"
-#define DEFFONT     "xft:sans-10"
+#define FRAME_W     12
+#define DEFFONT     "xft:DejaVu Sans Condensed-24"
+//#define DEFFONT     "xft:sans-10"
 
 #define COLBG       0
 #define COLFG       1

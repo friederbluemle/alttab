@@ -230,7 +230,7 @@ endIcon:
             drawMultiLine(wi->tile, fontLabel,
                     &(g.color[COLFG].xftcolor),
                     wi->name,
-                    0, (iconH + 5), tileW,
+                    0, (iconH + 10), tileW,
                     (tileH - iconH - 5));
         if (dr != 1) {
             msg(-1, "can't draw label\n");
